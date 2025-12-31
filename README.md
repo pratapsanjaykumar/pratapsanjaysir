@@ -1,52 +1,8 @@
-<style>
-   .banner-box {
-    width: 90%;
-    max-width: 900px;
-    border: 3px solid #1e90ff;
-    border-radius: 15px;
-    background: linear-gradient(135deg, #1e90ff, #00bfff);
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    padding: 10px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  }
-
-  .profile-img {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 3px solid #fff;
-    object-fit: cover;
-    margin-right: 20px;
-  }
-
-  .banner-content {
-    display: inline-block;
-    white-space: nowrap;
-    color: #fff;
-    font-size: 20px;
-    font-weight: bold;
-    position: relative;
-    animation: scroll 15s linear infinite;
-  }
-
-  .banner-content span {
-    margin: 0 50px;
-  }
+                                                               ████████████████████████
+                                                               █   Welcome to World   █
+                                                               ████████████████████████
 
 
-</style>
-<div class="banner-box">
-  <img src="https://via.placeholder.com/100" alt="Pratap Sanjay Sir" class="profile-img">
-  <div class="banner-content">
-    <span>🤗 Welcome to Pratap Sanjay Sir</span>
-    <span>Website: <a href="https://pratapsanjaysirpatna.blogspot.com" target="_blank">pratapsanjaysirpatna.blogspot.com</a></span>
-    <span>Instagram: <a href="https://instagram.com/pratapsanjaysir" target="_blank">@pratapsanjaysir</a></span>
-    <span>Email: <a href="mailto:pratapsanjaysir@gmail.com">pratapsanjaysir@gmail.com</a></span>
-  </div>
-
-  <hr><hr><br>
 <h1 align="center">Hi 👋, I'm Pratap Sanjay Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -80,8 +36,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cbseonline&show_icons=true&locale=en&layout=compact" alt="cbseonline" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbseonline&show_icons=true&locale=en" alt="cbseonline" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbseonline&" alt="cbseonline" /></p>
+
+                                                              ______________________
+                                                             |                      |
+                                                             |   CODING IN PROGRESS |
+                                                             |______________________|
+                                                                    ||      ||
+                                                                    ||      ||
+                                                                ┌──────────────┐
+                                                                |   (•_•)      |   <- Developer
+                                                                |  /|   |\     |
+                                                                |  / |   | \   |
+                                                                |____|___|_____|
