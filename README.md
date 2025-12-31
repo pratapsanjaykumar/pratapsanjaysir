@@ -1,3 +1,52 @@
+<style>
+   .banner-box {
+    width: 90%;
+    max-width: 900px;
+    border: 3px solid #1e90ff;
+    border-radius: 15px;
+    background: linear-gradient(135deg, #1e90ff, #00bfff);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  }
+
+  .profile-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+
+  .banner-content {
+    display: inline-block;
+    white-space: nowrap;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    animation: scroll 15s linear infinite;
+  }
+
+  .banner-content span {
+    margin: 0 50px;
+  }
+
+
+</style>
+<div class="banner-box">
+  <img src="https://via.placeholder.com/100" alt="Pratap Sanjay Sir" class="profile-img">
+  <div class="banner-content">
+    <span>🤗 Welcome to Pratap Sanjay Sir</span>
+    <span>Website: <a href="https://pratapsanjaysirpatna.blogspot.com" target="_blank">pratapsanjaysirpatna.blogspot.com</a></span>
+    <span>Instagram: <a href="https://instagram.com/pratapsanjaysir" target="_blank">@pratapsanjaysir</a></span>
+    <span>Email: <a href="mailto:pratapsanjaysir@gmail.com">pratapsanjaysir@gmail.com</a></span>
+  </div>
+
+  <hr><hr><br>
 <h1 align="center">Hi 👋, I'm Pratap Sanjay Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
